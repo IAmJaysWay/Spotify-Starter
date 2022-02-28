@@ -1,1 +1,1 @@
-# amazon-clone
+# Spotify-Starter
